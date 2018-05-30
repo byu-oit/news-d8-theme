@@ -25,6 +25,12 @@ software:
       swagger_urls:
     microservice: true # optional
     technologies_used: # optional
+      - PHP
+      - CSS
+      - HTML
+      - Ruby
+      - JavaScript
+      - Shell
     standard_change_template:
     stages:
       development:
